@@ -70,9 +70,9 @@ DIONA-ASSESSMENT/
 
 ## Technologies Used
 
-- **Backend:** PHP (MVC-like structure)  
-- **Frontend:** HTML, CSS  
-- **Database:** MySQL  
+- **Backend:** PHP 
+- **Frontend:** HTML, CSS , JavaScript 
+- **Database:** MySQL  (via XAMPP) 
 - **Middleware:** Custom PHP middleware for authentication and admin access  
 
 ## Setup Instructions
